@@ -19,3 +19,7 @@
 ## Let's Connect!
 
 🚀 Excited to push the boundaries of data analysis and create meaningful solutions. Don’t hesitate to get in touch. Let’s innovate together!
+
+<div align="center">
+  <img src="https://github.com/PrarthanaFernando/PrarthanaFernando/blob/main/image%20new.jpeg" alt="Alt text" />
+</div>
