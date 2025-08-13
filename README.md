@@ -1,6 +1,6 @@
 # Hi there I am Prarthana Fernando👋
 
-- 🎓 I'm a fourth-year Statistics Honours student at the University of Peradeniya, nearing the completion of my degree.
+- 🎓 B.Sc.(Hons) in Statistics Second Class Upper Division from Faculty of Science, University of Peradeniya.
 - 🌱 Passionate about data analysis and actively exploring new methodologies in the field.
 
 ## Tools I'm Familiar With
