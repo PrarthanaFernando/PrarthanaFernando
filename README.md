@@ -15,6 +15,8 @@
 - [Canonical Correlation Analysis](https://github.com/PrarthanaFernando/Canonical-Correlation-Analysis-on-Happy-Score-of-Countries-)
 - [Analysis on Air Quality Across London City](https://github.com/PrarthanaFernando/Analysis-on-Air-Quality)
 - [Analysis on World Earthquake Data](https://github.com/PrarthanaFernando/Analysis-on-World-Earthquake-Data)
+- [Bayesian Logistic Regression for Identifying Risk Factors of Heart Disease]
+(https://github.com/PrarthanaFernando/Bayesian-Logistic-Regression-for-Identifying-Risk-Factors-of-Heart-Disease)
 
 ## Let's Connect!
 
